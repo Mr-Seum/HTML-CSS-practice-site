@@ -6,7 +6,10 @@
 .clr{
     clear: both;
 }
-
+.container{
+    max-width: 90%;
+    margin: auto;
+}
 .navbar{
     background: #40777c;
     height: 50px;
